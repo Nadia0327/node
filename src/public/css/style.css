@@ -1,0 +1,25 @@
+html {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+nav{
+background-color: blueviolet;
+
+}
+h1 {
+    background-color: #8d0f5a51 ;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+p{
+    text-align: center;
+    padding: 20px;
+}
+
+.dropdown {
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: center;
+}
